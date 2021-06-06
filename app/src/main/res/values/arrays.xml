@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_unit_options">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="pref_unit_values">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+    </string-array>
+
+</resources>

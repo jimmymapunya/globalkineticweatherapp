@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GlobalKineticApp</string>
+
+    <string name="pref_key_unit" translatable="false">pref_key_unit</string>
 </resources>
