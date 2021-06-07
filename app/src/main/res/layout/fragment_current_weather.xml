@@ -119,4 +119,14 @@
         app:layout_constraintVertical_bias="0.542"
         tools:text="Wind: SE, 5.3 m/s" />
 
+    <Button
+        android:id="@+id/btnRefresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Refresh"
+        app:layout_constraintBottom_toTopOf="@+id/progressBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="@dimen/padding_30dp"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -33,19 +33,4 @@ class WeatherViewModel(
         }
         return Resource.Error(response.message())
     }
-
-    private val latitude = MutableLiveData<Double>()
-
-    fun setLatitude(lat: Double){
-        latitude.value = lat
-    }
-    fun getLatitude() = latitude.value
-
-    private val longitude = MutableLiveData<Double>()
-
-    fun setLongitude(lon: Double){
-        longitude.value = lon
-    }
-    fun getLongitude() = longitude.value
-
-}
+ }

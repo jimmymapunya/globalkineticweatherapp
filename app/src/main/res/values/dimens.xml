@@ -4,4 +4,5 @@
     <dimen name="height_56dp">56dp</dimen>
     <dimen name="padding_8dp">8dp</dimen>
     <dimen name="width_0dp">0dp</dimen>
+    <dimen name="padding_30dp">30dp</dimen>
 </resources>

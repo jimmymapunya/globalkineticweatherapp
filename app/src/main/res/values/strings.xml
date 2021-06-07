@@ -2,4 +2,8 @@
     <string name="app_name">GlobalKineticApp</string>
 
     <string name="pref_key_unit" translatable="false">pref_key_unit</string>
+    <string name="enable_gps">Please enable your gps</string>
+    <string name="permission_request">App requires location permission</string>
+
+    <string name="updated">Updated</string>
 </resources>
